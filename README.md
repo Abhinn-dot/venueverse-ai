@@ -54,23 +54,23 @@ The platform combines live stadium visualization with AI-powered decision suppor
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### AI Commander
 
-![Commander](screenshots/copilot.png)
+![Commander](public/screenshots/copilot.png)
 
 ### Smart Navigation
 
-![Navigation](screenshots/navigation.png)
+![Navigation](public/screenshots/navigation.png)
 
 ### Emergency Broadcaster
 
-![Broadcaster](screenshots/announcement.png)
+![Broadcaster](public/screenshots/announcement.png)
 
 ### Digital Twin
 
-![Digital Twin](screenshots/digital-twin.png)
+![Digital Twin](public/screenshots/digital-twin.png)
 
 ---
 
